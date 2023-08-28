@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 
 # headless ui
 # dialog modal
+# tailwind form plugin
