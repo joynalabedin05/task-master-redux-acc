@@ -5,7 +5,7 @@ import userSlice from './features/user/userSlice';
 
 const store = configureStore({
     reducer: {
-        tasks: taskSlice,
+        taskSlice: taskSlice,
         userSlice: userSlice,
     },
 });
